@@ -17,7 +17,7 @@ Desenvolvi esse projeto com a trilha Discorver da Rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/cover.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
