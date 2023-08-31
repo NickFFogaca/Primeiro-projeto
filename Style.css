@@ -167,7 +167,12 @@ footer {
   }
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
-  }
+  }  
+}
+
+ul li a:hover {
+  background: none;
+  border: none;
 }
 
 @keyframes slide-in {
